@@ -22,6 +22,19 @@
 
 ###
 
+<p align="left">Technogies i am learning</p>
+
+
+<div align="left">
+  <ul>
+    <li>Spring boot and spring framework for backend development with Java</li>
+    <li>Microserices architecture and patterns</li>
+  </ul>
+</div>
+###
+
+
+
 <p align="left">Frameworks and libraries i know</p>
 
 ###
